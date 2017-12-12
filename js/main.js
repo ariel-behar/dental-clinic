@@ -1,0 +1,1 @@
+window.addEventListener("load",function(){setTimeout(function(){document.getElementById("girl-with-apple").style.opacity=1},1e3)});
